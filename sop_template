@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>SOP导入模板</title>
+    <style>
+        body { text-align: center; margin-top: 100px; }
+        .btn { 
+            padding: 15px 30px; 
+            font-size: 18px; 
+            color: white; 
+            background: #2196F3; 
+            text-decoration: none; 
+            border-radius: 5px; 
+        }
+    </style>
+</head>
+<body>
+    <h2>SOP导入模板</h2>
+    <!-- 把“bom_template.xlsx”改成你上传的Excel文件名 -->
+    <a href="sop_template.xlsx" class="btn" download>立即下载</a>
+</body>
+</html>
